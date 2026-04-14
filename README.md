@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Привет, я Йор
 
-<!--
-**IIIoooRRR/IIIoooRRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Java-разработчик | Backend Engineer
 
-Here are some ideas to get you started:
+> Разрабатываю open-source проекты, главная парадигма которых — **оптимизация**.
+> Так же являюсь амбассадором по тупым вопросам
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Мой технологический стек
+
+**Core:**  
+`Java 17-25` `Spring Boot 4` `Hibernate` `JPA` `Maven`
+
+**Базы данных & Messaging:**  
+`PostgreSQL` `SQL` `Kafka`
+
+**Инструменты:**  
+`IntelliJ IDEA` `Mockito` `Testcontainers` `Postman` `Swagger/OpenAPI`
+
+**Также использую:**  
+`Docker` · `NixOS Linux`
+
+---
+
+## 📈 Статистика и активность
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IIIoooRRR&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIIoooRRR&layout=compact&theme=radical&hide=html,css)
+
+---
+
+## 🔥 Сейчас в фокусе
+
+- ✅ Spring Security + Spring Boot (вглубь)
+- ✅ Многопоточность: `CompletableFuture`, virtual threads (Project Loom)
+- ✅ Оптимизация работы с базами данных (индексы, план запросов, кэши)
+- ✅ Kafka, Redis, RabbitMQ
+- 📚 **Архитектурные вызовы:** виды сервлет-контейнеров, построение p2p-мессенджера
+
+---
+
+## 💼 Проекты
+
+| Название | Описание | Стек | Статус |
+|----------|----------|------|--------|
+| [**Messenger-Server-BETA**](https://github.com/IIIoooRRR/Messenger-Server-BETA) | Легковесный мессенджер-сервер на Jetty с p2p-парадигмой | Spring Boot 4, Spring Security, PostgreSQL, Docker Compose (временно без Docker из-за проблем Maven) | 🔄 Разрабатывается |
+| [**RPG-BOT**](https://github.com/IIIoooRRR/RPG-BOT) | Discord RPG-бот. Первый проект, будет переосмыслен | Java 17, SQL, JDA | ⏸ Временно остановлен |
+
+---
+
+## 📫 Как связаться
+
+- 💬 Telegram: [@iiiiooorrr](https://t.me/ioperiod)
+- 📧 Email: `iiiooorrr2010@gmail.com`
+- 🧠 Блог / мысли: [Excitement?](https://t.me/ioperiod)
+
+---
+
+✨ _И ЧТО, ЧТО Я ДЖАВИСТ, Я НЕ ПЬЮ КОФЕ_  
+_(но оптимизирую всё, кроме этой привычки)_ ✨
