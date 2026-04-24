@@ -38,9 +38,9 @@
 
 | Название | Описание | Стек | Статус |
 |----------|----------|------|--------|
-| [**Messenger-Server-BETA**](https://github.com/IIIoooRRR/Messenger-Server-BETA) | Легковесный мессенджер-сервер на Jetty с p2p-парадигмой | Spring Boot 4, Spring Security, PostgreSQL, Docker Compose (временно без Docker из-за проблем Maven) | 🔄 Разрабатывается |
-| [**RPG-BOT**](https://github.com/IIIoooRRR/RPG-BOT) | Discord RPG-бот. Первый проект, будет переосмыслен | Java 17, SQL, JDA | ⏸ Временно остановлен |
-| [**Proxy server**](https://github.com/IIIoooRRR/proxy) | Прокси сервер на redis с регистрацией | Little Proxy, Spring Boot, Redis | Закончен. Планируется консольный клиент |
+| [**Messenger-Server-BETA**](https://github.com/IIIoooRRR/Messenger-Server-BETA) | Легковесный мессенджер-сервер на Jetty с p2p-парадигмой | Spring Boot 4, Spring Security, PostgreSQL, Docker Compose (временно без Docker из-за проблем Maven) | Завершен |
+| [**RPG-BOT**](https://github.com/IIIoooRRR/RPG-BOT) | Discord RPG-бот. Первый проект, будет переосмыслен | Java 17, SQL, JDA | ⏸ Делается патч |
+| [**Proxy server**](https://github.com/IIIoooRRR/proxy) | Прокси сервер на redis с регистрацией | Little Proxy, Spring Boot, Redis | Закончен |
 
 ---
 
