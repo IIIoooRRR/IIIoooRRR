@@ -1,6 +1,6 @@
-# 👋 Привет, я Йор
+## Хаа, я - йор
 
-### 🚀 Java-разработчик | Backend Engineer
+### 🚀 oss-разработчик | Backend Engineer
 
 > Разрабатываю open-source проекты, главная парадигма которых — **оптимизация**.
 > Так же являюсь амбассадором по тупым вопросам
@@ -10,37 +10,29 @@
 ## 🛠️ Мой технологический стек
 
 **Core:**  
-`Java 17-25` `Spring Boot 4` `Hibernate` `JPA` `Maven`
+`Java 17-25` `go 1.24+` `pgx` `docker`
 
 **Базы данных & Messaging:**  
-`PostgreSQL` `SQL` `Kafka`
-
-**Инструменты:**  
-`IntelliJ IDEA` `Mockito` `Testcontainers` `Postman` `Swagger/OpenAPI`
-
-**Также использую:**  
-`Docker` · `NixOS Linux`
+`PostgreSQL` `SQL`
 
 ---
 
 
 ## 🔥 Сейчас в фокусе
 
-- ✅ Spring Security + Spring Boot (вглубь)
-- ✅ Многопоточность: `CompletableFuture`, virtual threads (Project Loom)
-- ✅ Оптимизация работы с базами данных (индексы, план запросов, кэши)
-- ✅ Kafka, Redis, RabbitMQ
-- 📚 **Архитектурные вызовы:** виды сервлет-контейнеров, построение p2p-мессенджера
-
+- Изучение fiber, echo(опционально)
+- Алгоритмы: вышмат, базмат
+- Оптимизация кода
+- Kafka, Redis, RabbitMQ
 ---
 
 ## 💼 Проекты
 
 | Название | Описание | Стек | Статус |
 |----------|----------|------|--------|
-| [**Messenger-Server-BETA**](https://github.com/IIIoooRRR/Messenger-Server-BETA) | Легковесный мессенджер-сервер на Jetty с p2p-парадигмой | Spring Boot 4, Spring Security, PostgreSQL, Docker Compose (временно без Docker из-за проблем Maven) | Завершен |
 | [**RPG-BOT**](https://github.com/IIIoooRRR/RPG-BOT) | Discord RPG-бот. Первый проект, будет переосмыслен | Java 17, SQL, JDA | ⏸ Делается патч |
 | [**Proxy server**](https://github.com/IIIoooRRR/proxy) | Прокси сервер на redis с регистрацией | Little Proxy, Spring Boot, Redis | Закончен |
+| [**G4D**](https://github.com/IIIoooRRR/G4D) | библиотека для разработки дискорд ботов на энтерпрайз уровне. Является сетевым ядром, поэтому вся не-сетевая логика легко переписывается| std go, zap, sonic, yaml.v3, gorilla-ws | Разрабатывается | 
 
 ---
 
@@ -52,4 +44,4 @@
 
 ---
 
-✨ _И ЧТО, ЧТО Я ДЖАВИСТ, Я НЕ ПЬЮ КОФЕ_  ✨
+✨ **Сервер надо поднять. Докером. Я его дам. Кафку нужно завалить. Запросами. Кафка упадет, прод я не дам**  ✨
